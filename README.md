@@ -6,3 +6,5 @@ https://pwa-text-editor-fordays.herokuapp.com/
 
 ![image](https://github.com/Wodaloo/19-Text-Editor/assets/119343529/1a40ec84-2f59-45e8-8eea-f4f83fe5fb9d)
 
+Another special thanks to Kayvon Kazemini for some solid review sessions!
+
